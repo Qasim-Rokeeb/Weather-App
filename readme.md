@@ -91,9 +91,7 @@ if (response.status == 404) {
 
 ## 📝 Notes
 
-> **API Key** used: `3751237614d038f66ba3107741e36456` (public for demo purposes)
-
-For your own project, you should hide API keys using environment variables or a backend service.
+For your own project, you should get your own API keys using environment variables or a backend service.
 
 ---
 
